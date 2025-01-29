@@ -394,6 +394,11 @@ transition: all 0.5s ease;
     #home .header-content p span{
         font-size: 16px;
     }
+    html, body {
+        overflow-x: hidden;
+        width: 100%;
+    }
+       
     #home .header-content .title{
         font-size: 16px;
     }
